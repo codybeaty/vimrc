@@ -1,4 +1,4 @@
-"This file is to hold docker specific
+"Docker specific settings
 
 "Abbreviations
 iabbrev <buffer> from FROM<right>
