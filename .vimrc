@@ -51,8 +51,3 @@ iabbrev ssig -- <cr>Cody Beaty<cr>email@email.ca<cr>--
 augroup filetype_vim
     autocmd!
 augroup END
-
-augroup filetype_javascript
-   autocmd FileType javascript nnoremap <buffer><localleader>c I//<esc>
-   autocmd FileType javascript nnoremap <buffer> iff if ()<left>
-augroup END
